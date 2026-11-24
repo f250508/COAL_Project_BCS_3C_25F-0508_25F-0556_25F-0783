@@ -7,7 +7,7 @@ A complete 16-bit Real Mode side-scrolling platform game written from scratch in
 | Member | Roll Number | Modules Built |
 | :--- | :--- | :--- |
 | Student 1 | 25F-0508 | Modules 1–5 (Skeleton, VGA Mode 13h, Maps/Tiles, Sprites, Frame Buffer) |
-| Student 2 | 25F-0566 | Modules 6–10 (Camera, Keyboard ISR, Timer ISR, Physics, Tile/AABB Collision) |
+| Student 2 | 25F-0556 | Modules 6–10 (Camera, Keyboard ISR, Timer ISR, Physics, Tile/AABB Collision) |
 | Student 3 | 25F-0783 | Modules 11–15 (Enemies/Shells, Blocks/Mushroom, Score/HUD, State Machine, Clean Exit) |
 
 ## Project Structure
